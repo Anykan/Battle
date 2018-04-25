@@ -1,0 +1,35 @@
+--Thank you for purchasing The Launcher by Çaðlayan Karagözler!
+
+UPDATE: In order to force the game executable to be launched only by the launcher, copy "ForceLauncher.cs" to your game project and add it to any Game Object on scene.
+
+----READ FIRST----
+It's pretty easy to use, many fields are self-explanatory 
+but for detailed info on how to use it and how it works;
+Please visit:
+
+ -- yonetim-hosting.com/TheLauncher/Documentation.pdf --
+ 
+----------------------------------------------------------------
+
+**The Launcher** 
+
+	is a helper application like any patcher but with one difference; 
+It’s completely coded and designed in Unity. It basically allows the
+user to download your game, keeps your game updated at all times and
+checks file integrity.
+
+	It has two main parts. The uploader and the client. The uploader works
+in the Unity Editor and is launched from “Window” menu by clicking its name.
+The client is delivered to the player.
+
+	The Uploader, allows you to select your build, compresses the build
+folder and uploads it to a server you specify via FTP protocol right from the
+Unity Editor.
+
+	The Client, allows your player to download the compressed build from
+the server and decompresses it while also checking the file integrity and
+latest version. Client requests the files via HTTP. It also launches your game
+through its interface.
+
+Check the documentation for more information.
+

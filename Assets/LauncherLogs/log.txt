@@ -1,0 +1,93 @@
+-DefaultCompany-version: 2018.2.0b1-product name:Battle--DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 1:23:22 AM Wednesday, April 25, 2018 |Time: 1:23:22 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 1:23:25 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 1:23:25 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 1:23:29 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 1:23:30 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 1:23:30 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 1:23:30 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Cancelled |Time: 1:23:42 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 1:23:49 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 1:23:51 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 1:23:52 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 1:24:05 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 1:24:05 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 1:24:05 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 1:24:05 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 1:35:00 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 1:35:02 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 1:35:03 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 1:35:07 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 1:35:07 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 1:35:07 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 1:35:08 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 1:36:55 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 1:37:03 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 1:37:06 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 1:37:06 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 1:37:58 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 1:37:58 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 1:37:59 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 1:37:59 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 1:38:08 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 1:38:08 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 1:38:08 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 1:38:09 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 1:39:10 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 1:39:14 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 1:39:14 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 1:39:20 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 1:39:20 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 1:39:20 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 1:39:21 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 1:40:14 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 1:40:14 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 1:40:15 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 1:40:15 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 1:41:12 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 1:41:15 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 1:41:15 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 1:41:20 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 1:41:21 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 1:41:21 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 1:41:21 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 1:44:52 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 1:44:56 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 1:44:56 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 1:45:51 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 1:45:53 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 1:45:54 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 1:46:01 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 1:46:01 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 1:46:02 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 1:46:02 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 1:50:46 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 1:50:59 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 1:50:59 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 1:51:04 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 1:51:04 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 1:51:04 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 1:51:04 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 2:00:05 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 2:00:09 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 2:00:09 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 2:01:43 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 2:01:46 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 2:01:46 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 2:02:11 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 2:02:12 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 2:02:12 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 2:02:12 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/Unity Games/Battle/Battle |Time: 2:04:00 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 2:04:02 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 2:04:02 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 2:04:08 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 2:04:09 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 2:04:09 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 2:04:09 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Selected Folder:D:/UnityGames/Battle/Battle |Time: 2:14:31 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Thread Launched |Time: 2:14:33 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Compression Started |Time: 2:14:34 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload started |Time: 2:14:44 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Version File Upload Started |Time: 2:14:44 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-File List Upload Started |Time: 2:14:44 AM Wednesday, April 25, 2018
+-DefaultCompany-version: 2018.2.0b1-product name:Battle-Upload Started |Time: 2:14:45 AM Wednesday, April 25, 2018
